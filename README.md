@@ -141,4 +141,21 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 
+
+## Future Improvements
+
+We plan to enhance the CryptoTrader app by:
+
+- Adding support for real-time trading with multiple exchanges.
+- Implementing notifications for portfolio changes.
+- Integrating machine-learning based trading signals.
+- Improving the mobile experience and offline access.
+
+## Contact
+
+If you have questions, suggestions or want to contribute, feel free to open an issue or reach out:
+
+- GitHub: [@illia-fz](https://github.com/illia-fz)
+- Email: your-email@example.com
+
 This is a demo application for educational purposes. It does not connect to real trading exchanges and uses simulated data. Always do your own research before investing in cryptocurrencies.
